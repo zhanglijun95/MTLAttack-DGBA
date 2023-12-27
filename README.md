@@ -1,5 +1,3 @@
-## Good News 12/10/2024: Our paper has been accepted by AAAI 2024!
-
 # Dynamic Gradient Balancing for Enhanced Adversarial Attacks on Multi-Task Models 
 This is the website for our paper "Dynamic Gradient Balancing for Enhanced Adversarial Attacks on Multi-Task Models". 
 The arXiv version can be found [here](https://arxiv.org/abs/2305.12066.pdf).
